@@ -9,7 +9,7 @@ _Inspired by mr_me
 1. Install Eclipse: https://www.eclipse.org/downloads/
 2. Install Enhanced Class Decompiler from Eclipse Marketplace. You can do it directly from Eclipse or download it from here: https://marketplace.eclipse.org/content/enhanced-class-decompiler
 3. Configure Enhanced Class Decompiler following this guide: https://ecd-plugin.github.io/ecd/
-4. Open a new project: _File_ -> _New_ -> _Project_:
+4. Open a new project: _File_ -> _New_ -> _Project_:  
  ![screenshots/1.png](screenshots/1.png)
 
 5. Create a Java project:
