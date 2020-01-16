@@ -1,4 +1,4 @@
-# Decompiling and Debuggin JARs
+# Decompiling and Debugging JARs
 
 This tutorial is fast break into decompiling and debugging JAR files in Eclipse.  
 _Inspired by mr_me
