@@ -18,8 +18,7 @@ _Inspired by mr_me
 9. Add external JARs
 ![screenshots/6.png](screenshots/6.png)
 10. Choose file from localsystem & click _Open_  
-You can use this easy example:  
-[Helloworld_if.jar](Helloworld_if.jar)
+You can use this easy example: [Helloworld_if.jar](Helloworld_if.jar)
 ![screenshots/7.png](screenshots/7.png)
 11.  Select _Apply and Close_
 12.  Just doubleclick on *.class file in Project Explore!
