@@ -17,7 +17,7 @@ _Inspired by mr_me
 ![screenshots/5.png](screenshots/5.png)
 9. Add external JARs
 ![screenshots/6.png](screenshots/6.png)
-10. Choose file from localsystem & click _Open_
+10. Choose file from localsystem & click _Open_  
 You can use this easy example:  
 [Helloworld_if.jar](Helloworld_if.jar)
 ![screenshots/7.png](screenshots/7.png)
