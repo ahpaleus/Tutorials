@@ -1,5 +1,6 @@
-This tutorial is fast break into decompiling and debugging JAR files in Eclipse. Inspired by mr_me
-[Busting Cisco's Beans :: Hardcoding Your Way to Hell](https://srcincite.io/blog/2020/01/14/busting-ciscos-beans-hardcoding-your-way-to-hell.html)
+This tutorial is fast break into decompiling and debugging JAR files in Eclipse.  
+_Inspired by mr_me
+[Busting Cisco's Beans :: Hardcoding Your Way to Hell](https://srcincite.io/blog/2020/01/14/busting-ciscos-beans-hardcoding-your-way-to-hell.html)_
 
 1. Install Eclipse https://www.eclipse.org/downloads/
 2. Install Enhanced Class Decompiler from eclipse marketplace https://marketplace.eclipse.org/content/enhanced-class-decompiler
