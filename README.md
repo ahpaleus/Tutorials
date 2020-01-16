@@ -1,3 +1,3 @@
 # Tutorials
 
-[How to decompile & debug JARs in Eclipse](https://../Decompiling_Debugging_JARs/README.md)
+[How to decompile & debug JARs in Eclipse](/Decompiling_Debugging_JARs/README.md)
