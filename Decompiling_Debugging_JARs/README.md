@@ -18,13 +18,13 @@ _Inspired by mr_me
 6. Type in Project name (in this case _Name123_) and click _Finish_:
 ![screenshots/3.png](screenshots/3.png)
 
-7. Just don't create module (click _Don't create_):
+7. Just don't create module (click _Don't Create_):
 ![screenshots/4.png](screenshots/4.png)
 
-8. Right click on the name of the project -> _Build path_ -> _Configure build path..._:
+8. Right click on the name of the project -> _Build Path_ -> _Configure build path..._:
 ![screenshots/5.png](screenshots/5.png)
 
-9. Click _Add external JARs_:
+9. In _Libraries_ tab select _Classpath_ and Click _Add External JARs_:
 ![screenshots/6.png](screenshots/6.png)
 
 10. Choose file from localsystem & click _Open_:
